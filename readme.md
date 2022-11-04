@@ -11,3 +11,23 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 
 **[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+
+Clone the repo in your local machine.
+
+```bash
+  git Clone https://github.com/ObelusFamily/Anythink-Market-7nk1a.git
+```
+
+
+Go to the root directory and run docker-compose up 
+
+```bash
+  docker-compose up
+```
+to install all the dependencies for the project.
+
+Navigate to 
+```bash
+  http://localhost:3001
+```
+to see the application.
