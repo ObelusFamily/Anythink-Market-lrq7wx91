@@ -15,7 +15,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 Clone the repo in your local machine.
 
 ```bash
-  git Clone https://github.com/ObelusFamily/Anythink-Market-7nk1a.git
+  git Clone https://github.com/ObelusFamily/Anythink-Market-lrq7wx91.git
 ```
 
 
