@@ -9,6 +9,7 @@ var ItemSchema = new mongoose.Schema(
     title: String,
     description: String,
     image: String,
+    image: this.image || '/placeholder.png',
     favoritesCount: { type: Number, default: 0 },
     comments: [{ type: mongoose.Schema.Types.ObjectId, ref: "Comment" }],
     tagList: [{ type: String }],
